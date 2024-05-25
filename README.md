@@ -1,1 +1,1 @@
-# SI_2024_lab2_223084
+Petar Hristovski 223084
