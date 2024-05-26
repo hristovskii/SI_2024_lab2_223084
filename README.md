@@ -1,7 +1,7 @@
 Petar Hristovski 223084
 
 2. Control Flow Graph
-![](SI_lab2_223084/cfg.png)
+![](cfg.png)
 3. цикломатската комплексност = 10
     
     -V(G)= E - N + 2 (Бројот на јазли се одзимаат од бројот на ребра и на тој резултат се додава плус 2)
@@ -11,8 +11,8 @@ Petar Hristovski 223084
     -Со броење на сите региони.
    
 4. Every Branch критериум
-![](SI_lab2_223084/img.png)
+![](every_branch.png)
 
 
 5. Multiple Condition критериум
-![](SI_lab2_223084/img_1.png)
+![](multiple_condition.png)
