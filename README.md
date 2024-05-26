@@ -10,4 +10,9 @@ Petar Hristovski 223084
    
     -Со броење на сите региони.
    
-5. 1 
+4. Every Branch критериум
+![](SI_lab2_223084/img.png)
+
+
+5. Multiple Condition критериум
+![](SI_lab2_223084/img_1.png)
