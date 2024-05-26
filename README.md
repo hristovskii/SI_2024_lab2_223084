@@ -1,7 +1,7 @@
 Petar Hristovski 223084
 
 2. Control Flow Graph
-![](images/control_flow_graph_223084.png)
+![](cfg.png)
 3. цикломатската комплексност = 10
     
     -V(G)= E - N + 2 (Бројот на јазли се одзимаат од бројот на ребра и на тој резултат се додава плус 2)
